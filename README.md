@@ -8,3 +8,4 @@
    Makes a cool looking grayed out coding box
    ```
 8. <kbd>CTRL<kbd> + <kbd>C</kbt>
+9. <a href="https://example.com">Custom names for websites</a>
